@@ -1,11 +1,11 @@
 //INSERIRE IL NOME
-let nome = parseInt(prompt('inserisci il tuo nome'));
+let nome = (prompt('inserisci il tuo nome'));
 
 //INSERIRE IL COGNOME
-let cognome = parseInt(prompt('inserisci il tuo cognome'));
+let cognome = (prompt('inserisci il tuo cognome'));
 
 //INSERIRE IL TUO COLORE PREFERITO
-let colore = parseInt(prompt('inserisci il tuo colore preferito'));
+let colore = (prompt('inserisci il tuo colore preferito'));
 
 //AGGIUNGO IL 21
 let numero = 21;
